@@ -1,2 +1,1 @@
-# Project
-> Repository to Angular study
+> Angular study repository
